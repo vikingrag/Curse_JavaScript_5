@@ -1,6 +1,6 @@
 # **Curse_JavaScript_5**
 
-## This is an advertising page written to showcase cars. Website written with HTML, CSS, JavaScript
+## Website written with HTML, CSS, JavaScript
 ___
 
 
